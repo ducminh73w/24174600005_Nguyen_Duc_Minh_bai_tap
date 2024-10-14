@@ -1,0 +1,1 @@
+# 24174600005_Nguyen_Duc_Minh_bai_tap
