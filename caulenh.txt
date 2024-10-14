@@ -184,6 +184,9 @@ remote:      https://github.com/ducminh73w/24174600005_Nguyen_Duc_Minh_bai_tap/p
 remote:
 To https://github.com/ducminh73w/24174600005_Nguyen_Duc_Minh_bai_tap.git
  * [new branch]      branch_4 -> branch_4
+HOANG MINH@Dlerwing MINGW64 ~/Desktop/24174600005_Nguyen_Duc_Minh_bai_tap (main)
+$ git branch -D branch_5
+Deleted branch branch_5 (was ad4f5f3).
 
 HOANG MINH@Dlerwing MINGW64 ~/Desktop/24174600005_Nguyen_Duc_Minh_bai_tap (branch_4)
 $ git checkout main
